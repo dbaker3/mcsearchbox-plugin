@@ -20,7 +20,7 @@ function mcsearchbox_make( $atts ){ // Makes shortcode for MCSearchbox
 				<img src="http://library.milligan.edu/wp-content/uploads/images/mcsearch_150px.png" alt="MCSearch" /><!--
 
 				--><input id="ebscohostwindow" name="ebscohostwindow" type="hidden" value="1" /><!--
-				--><input id="ebscohosturl" name="ebscohosturl" type="hidden" value="http://search.ebscohost.com/login.aspx?direct=true&site=eds-live&scope=site&type=0&custid=s8886565&groupid=main&profid=edsmain&mode=and&lang=en&authtype=ip,guest" /><!--
+				--><input id="ebscohosturl" name="ebscohosturl" type="hidden" value="https://milligan.idm.oclc.org/login?url=https://milligan.idm.oclc.org/login?url=ttp://search.ebscohost.com/login.aspx?direct=true&site=eds-live&scope=site&type=0&custid=s8886565&groupid=main&profid=edsmain&mode=and&lang=en&authtype=ip,guest" /><!--
 				--><input id="ebscohostsearchsrc" name="ebscohostsearchsrc" type="hidden" value="db" /><!--
 				--><input id="ebscohostsearchmode" name="ebscohostsearchmode" type="hidden" value="+AND+" /><!--
 				--><input id="ebscohostkeywords" name="ebscohostkeywords" type="hidden" value="" /><!--
